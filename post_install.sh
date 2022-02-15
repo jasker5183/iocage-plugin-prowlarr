@@ -1,3 +1,5 @@
+#!/bin/sh
+
 sysrc -f /etc/rc.conf prowlarr_enable="YES"
 
 #62991
